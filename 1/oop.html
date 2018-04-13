@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OOP</title>
+</head>
+<body>
+    <script type="text/javascript">
+
+        // 类的声明
+        function Animal() {
+            this.name = 'name';
+        }
+
+        // ES6中的class的声明
+        class Animal2 {
+            constructor(){
+                this.name = name;
+            }
+        }
+
+        // 实例化
+        console.log(new Animal(),new Animal2());
+
+
+    //    借助构造函数实现继承
+        function Parent1() {
+            this.name = 'parant1';
+        }
+
+        Parent1.prototype.say = function () {
+        };
+
+
+        function Child1() {
+            Parent1.call(this);// 也可以用apply
+            this.type='child1';
+        }
+        // 实例化
+        console.log(new Child1());
+
+        // 借助原型链实现继承
+
+        function Parent2() {
+            this.name = 'parent2';
+        }
+
+        function Child2() {
+            this.type = 'child2';
+        }
+        Child2.prototype = new Parent2();
+
+        console.log( new Child2());
+
+
+    </script>
+</body>
+</html>
