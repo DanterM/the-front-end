@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS</title>
+
+    <style type="text/css">
+        #abs{
+            width:150px;
+            height:100px;
+            background: aquamarine;
+            font-size: 10px;
+            text-align: center;
+            position: absolute;
+            font-weight: bold;
+            padding: 70px 40px;
+            -webkit-transition:width 500ms, height 500ms, -webkit-transform 500ms ,background 500ms, font 500ms; /* Safari and Chrome */
+        }
+
+        #abs:hover{
+            width: 300px;
+            height: 200px;
+            font-size: 15px;
+            -webkit-transform: rotate(360deg);
+            background: aqua;
+        }
+    </style>
+</head>
+<body>
+    <div id="abs">CSS3过度
+    </div>
+    <div>请把鼠标指针放到黄色的 div 元素上，来查看过渡效果。</div>
+
+</body>
+</html>
