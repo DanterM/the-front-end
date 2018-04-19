@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f68b2970-6d52-436e-8851-dd9172c43eeb" name="Default" comment="整理文件">
-      <change afterPath="$PROJECT_DIR$/1/属性绑定和双向数据绑定.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/属性绑定和双向数据绑定.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,35 +40,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="属性绑定和双向数据绑定.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vue自学/属性绑定和双向数据绑定.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="属性绑定和双向数据绑定.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1/属性绑定和双向数据绑定.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,16 +128,6 @@
               <item name="the-front-end" type="b2602c69:ProjectViewProjectNode" />
               <item name="the-front-end" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="the-front-end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="the-front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="the-front-end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="the-front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="Vue自学" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -164,7 +151,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -192,7 +179,7 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="build/build.js" working-dir="$PROJECT_DIR$/Vue入门项目-1" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -221,7 +208,7 @@
       <workItem from="1523928144212" duration="39000" />
       <workItem from="1523929048015" duration="52000" />
       <workItem from="1523945763633" duration="1743000" />
-      <workItem from="1524128310977" duration="1973000" />
+      <workItem from="1524128310977" duration="3336000" />
     </task>
     <task id="LOCAL-00001" summary="add review.html">
       <created>1521635119444</created>
@@ -269,13 +256,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28757000" />
+    <option name="totallyTimeSpent" value="30120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-180" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17008953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17008953" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.3299389" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -283,7 +269,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299389" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24541752" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24541752" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -631,20 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue自学/属性绑定和双向数据绑定.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1/属性绑定和双向数据绑定.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -652,10 +624,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue自学/属性绑定和双向数据绑定.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
         </state>
       </provider>
     </entry>
