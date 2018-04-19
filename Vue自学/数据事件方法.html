@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Vue</title>
+	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+<body>
+	<div id="app">
+		<div @click = 'www'>{{content}}
+		</div>
+	</div>
+
+	<script>
+		new Vue({
+			el: '#app',
+			data: {
+				content: 'hello'
+			},
+			methods: {
+				www: function(){
+						this.content = 'world';
+				}
+			}
+		})
+
+	</script>
+</body>
+</html>
